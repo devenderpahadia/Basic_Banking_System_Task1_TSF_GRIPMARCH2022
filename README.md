@@ -16,8 +16,12 @@ Flow of the Website: Home Page > View Customers > Send Money > read reciever nam
 
 ![image](/ScreenShots/Homepage.png)
 
-![image](/Images/view%20customers.png)
+![image](/ScreenShots/ContactUs.png)
 
-![image](/Images/transcation.png)
+![image](/ScreenShots/SendMoney1.png)
 
-![image](/Images/history.png)
+![image](/ScreenShots/SendMoney2.png)
+
+![image](/ScreenShots/ViewCustomers.png)
+
+![image](/ScreenShots/TransactionHistory.png)
