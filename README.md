@@ -1,10 +1,14 @@
 # Basic_Banking_System_Task1_TSF_GRIPMARCH2022
 
-#BankingSystem #WebDevlopment #Task1 #The-Spark-Foundation
+#Basic_Banking_System
+#WebDevelopment
+#Task1
+#The_Spark_Foundation
 
-This is Task 1 " Online Bank Service " of The Spark Foundation under their #GRIPMAY21 Program
+This is Task 1 " Basic Banking System " of The Spark Foundation under their #GRIPMARCH22 Program
 
-#Languages Used
+#Languages_Used
+
 1. HTML
 2. CSS
 4. JAVA SCRIPT
